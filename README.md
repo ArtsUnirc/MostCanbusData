@@ -1,5 +1,5 @@
 # CNMS-SPOKE6-WP1
-This repository has been created to share and make usable the UniRC dataset created during the <em>Piano Nazionale di Ripresa e Resilienza</em> (PNRR) project activities. See flow_chart.pdf for major details.
+This repository has been created to share and make usable the UniRC datasets created during the <em>Piano Nazionale di Ripresa e Resilienza</em> (PNRR) project activities. See flow_chart.pdf for major details.
 
 ## Prerequisities:
 * Ubuntu OS (tested on v. 20.04 LTS and v. 22.04 LTS)
