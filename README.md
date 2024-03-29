@@ -39,4 +39,8 @@ python3 dataset_reader.py
 The interactive command line user interface asks you to choose a data format, a mobility scenario, and the features to consider.
 According to user choices, a dataset is generated and stored in .csv format in the <em>custom_datasets</em> folder.
 
-[comment]: <> (PNRR, SPOKE6 details and logos. UniRC logo. MIT License)
+
+**Note**
+ Some of the included datasets in the homonym folder have been retained only for application testing purposes. To see two examples of real datasets, select the following options from the command line:
+* decimal format
+* urban scenario
