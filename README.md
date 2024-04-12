@@ -43,4 +43,4 @@ According to user choices, a dataset is generated and stored in .csv format in t
 ## Note
 This is a preliminary version of the application, so some of the included datasets in the homonym folder have been retained only for testing purposes. To see two examples of real datasets, select the following options from the command line:
 * decimal format
-* urban scenario
+* urban/suburban scenario
